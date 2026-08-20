@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Janhavi Deshmukh
 
-🎓 BE 2nd year in Information Technology  
+🎓 BE 3rd year in Information Technology  
 💻 Full Stack & AI/ML Enthusiast  
 🚀 Passionate about building useful applications and learning new technologies.
 
