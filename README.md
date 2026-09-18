@@ -3,6 +3,10 @@
 ### 🚀 Aspiring Software Engineer | Data Science | AI/ML | Full-Stack Developer
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Data+Science+%7C+AI%2FML+%7C+Full-Stack+Development;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Building+Projects+That+Solve+Real-World+Problems;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/deshmukh-janhavi/">
     <img src="https://img.shields.io/badge/LINKEDIN-JANHAVI%20DESHMUKH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -28,13 +32,13 @@
 - 📚 Continuously strengthening my **DSA, AI/ML, Data Science, and Software Engineering** skills.
 
 ---
-## 🛠️ Tech Stack & Skills
+
+# 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,java,c,php,js" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🌐 Frontend
@@ -56,24 +60,24 @@
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/numpy" height="48"/>
-  <img src="https://cdn.simpleicons.org/pandas" height="48"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
-  <img src="https://cdn.simpleicons.org/qdrant" height="48"/>
 </p>
 
 ### 📊 Data & Analytics
 
 <p>
-  <img src="https://cdn.simpleicons.org/powerbi" height="48"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel" height="48"/>
-  <img src="https://cdn.simpleicons.org/tableau" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" width="48" height="48" />
 </p>
 
 ### 🔧 Tools & Development
@@ -83,14 +87,18 @@
 </p>
 
 <p>
-  <img src="https://cdn.simpleicons.org/matlab" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" />
 </p>
+
+---
 
 # 🚀 Featured Projects
 
 ## 🤖 AI-Powered Developer Intelligence System
 
-**React.js • FastAPI • Python • LLMs • PostgreSQL**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,fastapi,python,postgres" />
+</p>
 
 > An AI-powered developer intelligence platform combining **resume auditing and GitHub profile analysis** to evaluate developer readiness and job-market alignment.
 
@@ -108,7 +116,9 @@
 
 ## 🧠 AI-Powered Student Assistance System
 
-**Python • Machine Learning • NLP**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 > An intelligent academic assistance system designed to help students resolve queries, access study resources, and automate learning support.
 
@@ -125,7 +135,9 @@
 
 ## 📚 E-Library Management System
 
-**PHP • MySQL • HTML • CSS • Bootstrap**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css" />
+</p>
 
 > A role-based digital library management system designed to organize and manage academic study materials efficiently.
 
@@ -158,13 +170,15 @@
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 | 🎓 Degree | 🏫 Institution | 📅 Duration | 📊 Score |
 |---|---|---|---|
 | **B.E. / B.Tech. Information Technology** | Dr. D. Y. Patil Institute of Technology, Pimpri, Pune | 2025 – Present | **CGPA: 8.79** |
 | **Diploma in Computer Technology** | Government Polytechnic, Nashik | 2022 – 2025 | **92.53%** |
-| **Secondary School (10th)** | Jajoo Madhyamik Vidyalay, Nashik | 2021 – 2022 | **95.40%** |
+| **Secondary School Certificate (10th)** | Jajoo Madhyamik Vidyalay, Nashik | 2021 – 2022 | **95.40%** |
+
+---
 
 # 📜 Certifications
 
@@ -174,6 +188,36 @@
 - 🧩 **AI Fluency: Framework & Foundations** — Anthropic
 - 📊 **Machine Learning Onramp** — MATLAB
 
+---
+
+# 💻 Coding & GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavid05&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavid05&layout=compact&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=janhavid05&hide_border=true" />
+</p>
+
+---
+
+# 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/janhavi_d05/">
+    <img src="https://img.shields.io/badge/LeetCode-janhavi__d05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+> 💻 Actively practicing **Data Structures & Algorithms** using C++ and strengthening problem-solving skills through competitive programming.
+
+### 🔍 Current DSA Focus
+
+`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window` • `Binary Search` • `Linked List` • `Stack` • `Queue` • `Trees` • `Graphs` • `Recursion` • `Dynamic Programming`
+
+---
 
 # 🌱 Currently Exploring
 
@@ -181,8 +225,44 @@
 - 📊 Advanced **Data Science & Data Analytics**
 - 🤖 **Machine Learning & Generative AI**
 - 🧩 **LLMs, RAG & AI Agents**
+- 🌐 **MERN Stack & Full-Stack Development**
 - ⚙️ **Backend Development with Flask & FastAPI**
 - 🚀 Building scalable, real-world applications
 
 ---
 
+# 💡 What I Believe
+
+> **"I like building projects that solve real-world problems."**
+
+I believe the best way to learn technology is by **building, experimenting, solving problems, and continuously improving.**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/deshmukh-janhavi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/janhavi_d05/">
+<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:janhavideshmukh58@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider starring a repository!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janhavid05&label=Profile%20Views&style=flat" />
+</p>
