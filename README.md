@@ -76,9 +76,9 @@
 ### 📊 Data & Analytics
 
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Development
