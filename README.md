@@ -3,18 +3,14 @@
 ### 🚀 Aspiring Software Engineer | Data Science | AI/ML | Full-Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Data+Science+%7C+AI%2FML+%7C+Full-Stack+Development;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Building+Projects+That+Solve+Real-World+Problems;Always+Learning%2C+Building+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/deshmukh-janhavi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Janhavi%20Deshmukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-JANHAVI%20DESHMUKH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/janhavi_d05/">
-    <img src="https://img.shields.io/badge/LeetCode-janhavi__d05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LEETCODE-JANHAVI__D05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:janhavideshmukh58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -32,28 +28,26 @@
 - 📚 Continuously strengthening my **DSA, AI/ML, Data Science, and Software Engineering** skills.
 
 ---
-
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,php,js,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,php,js" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### ⚙️ Backend & Full-Stack Development
+### ⚙️ Backend & Full-Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
-
-**MERN Stack • Flask • FastAPI • REST APIs • API Integration • Authentication**
 
 ### 🤖 Data Science & AI/ML
 
@@ -61,19 +55,26 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
-**Machine Learning • Data Science • Data Analytics • NLP • Generative AI • LLMs • RAG • AI Agents • NumPy • Pandas • Scikit-learn • TensorFlow**
+<p>
+  <img src="https://cdn.simpleicons.org/numpy" height="48"/>
+  <img src="https://cdn.simpleicons.org/pandas" height="48"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="48"/>
+</p>
 
 ### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
+  <img src="https://cdn.simpleicons.org/qdrant" height="48"/>
 </p>
-
-**MySQL • PostgreSQL • SQL Server • Supabase • Firebase • Qdrant**
 
 ### 📊 Data & Analytics
 
-**Power BI • Excel • Tableau • Pandas • NumPy • Matplotlib • Statistical Analysis**
+<p>
+  <img src="https://cdn.simpleicons.org/powerbi" height="48"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" height="48"/>
+  <img src="https://cdn.simpleicons.org/tableau" height="48"/>
+</p>
 
 ### 🔧 Tools & Development
 
@@ -81,9 +82,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
-**Git • GitHub • VS Code • Visual Studio • Docker • Postman • MATLAB**
-
----
+<p>
+  <img src="https://cdn.simpleicons.org/matlab" height="48"/>
+</p>
 
 # 🚀 Featured Projects
 
@@ -157,14 +158,13 @@
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 | 🎓 Degree | 🏫 Institution | 📅 Duration | 📊 Score |
 |---|---|---|---|
 | **B.E. / B.Tech. Information Technology** | Dr. D. Y. Patil Institute of Technology, Pimpri, Pune | 2025 – Present | **CGPA: 8.79** |
 | **Diploma in Computer Technology** | Government Polytechnic, Nashik | 2022 – 2025 | **92.53%** |
-
----
+| **Secondary School (10th)** | Jajoo Madhyamik Vidyalay, Nashik | 2021 – 2022 | **95.40%** |
 
 # 📜 Certifications
 
