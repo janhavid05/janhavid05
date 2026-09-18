@@ -10,11 +10,13 @@
   <a href="https://www.linkedin.com/in/deshmukh-janhavi/">
     <img src="https://img.shields.io/badge/LINKEDIN-JANHAVI%20DESHMUKH-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://leetcode.com/u/janhavi_d05/">
     <img src="https://img.shields.io/badge/LEETCODE-JANHAVI__D05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
   <a href="mailto:janhavideshmukh58@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-janhavideshmukh58%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -74,10 +76,7 @@
 ### 📊 Data & Analytics
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tableau/tableau-original.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau" width="180" />
 </p>
 
 ### 🔧 Tools & Development
@@ -190,34 +189,6 @@
 
 ---
 
-# 💻 Coding & GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavid05&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavid05&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=janhavid05&hide_border=true" />
-</p>
-
----
-
-# 🧠 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/janhavi_d05/">
-    <img src="https://img.shields.io/badge/LeetCode-janhavi__d05-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
-> 💻 Actively practicing **Data Structures & Algorithms** using C++ and strengthening problem-solving skills through competitive programming.
-
-### 🔍 Current DSA Focus
-
-`Arrays` • `Strings` • `Hashing` • `Two Pointers` • `Sliding Window` • `Binary Search` • `Linked List` • `Stack` • `Queue` • `Trees` • `Graphs` • `Recursion` • `Dynamic Programming`
-
----
 
 # 🌱 Currently Exploring
 
@@ -236,26 +207,6 @@
 > **"I like building projects that solve real-world problems."**
 
 I believe the best way to learn technology is by **building, experimenting, solving problems, and continuously improving.**
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/deshmukh-janhavi/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/janhavi_d05/">
-<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:janhavideshmukh58@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
