@@ -1,14 +1,20 @@
-# 👋 Hi, I'm Janhavi Deshmukh
+### 👩‍💻 About Me
 
-🎓 BE 3rd year in Information Technology  
-💻 Full Stack & AI/ML Enthusiast  
-🚀 Passionate about building useful applications and learning new technologies.
-
+- 🎓 3rd Year Computer Engineering student at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune.
+- 💻 Passionate about C++, Data Structures & Algorithms, and solving real-world problems through code.
+- 📊 Strong foundation in Data Science, Data Analytics, statistical analysis, and data-driven solutions.
+- 🤖 Exploring AI/ML, Generative AI, NLP, and intelligent application development.
+- 🌐 Building full-stack applications with the MERN Stack, Flask, FastAPI, and REST APIs.
+- 🚀 Experienced in developing academic, hackathon, and real-world projects from idea to implementation.
+- 📚 Continuously strengthening DSA, AI/ML, and software engineering skills.
 ---
 
-## 👩‍💻 About Me
-- 🎓 2nd Year BE student in Information Technology
-- 🏢 Ex Intern at Sumago Infotech Pvt. Ltd.
+### 🎓 Education
+
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| B.E. Information Technology | Dr. D. Y. Patil Institute of Technology, Pimpri, Pune | 2025 – 2028 | CGPA: 8.795 |
+| Diploma in Computer Technology | Government Polytechnic, Nashik | 2022 – 2025 | 92.53% |
 
 ---
 
