@@ -76,7 +76,9 @@
 ### 📊 Data & Analytics
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau" width="180" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="48" height="48" />
 </p>
 
 ### 🔧 Tools & Development
@@ -212,8 +214,4 @@ I believe the best way to learn technology is by **building, experimenting, solv
 
 <p align="center">
   ⭐ If you find my projects interesting, consider starring a repository!
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janhavid05&label=Profile%20Views&style=flat" />
 </p>
